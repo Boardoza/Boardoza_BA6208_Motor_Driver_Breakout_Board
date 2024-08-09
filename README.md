@@ -1,6 +1,8 @@
 # Boardoza BA6208G Motor Driver Breakout Board
 The BA6208 is an integrated circuit designed for reversible motor drive with output current capability and an inbuilt oscillating function. This small IC finds use in a range of applications primarily involving motor control in devices like consumer electronics or automotive accessories.
 
+### [Click here to purchase!](https://www.ozdisan.com)
+
 |Front Side|Back Side|
 |:---:|:---:|
 |![Boardoza_BA6208G_Front](./assets/BA6208%20Front.png)|![Boardoza_BA6208_Back](./assets/BA6208%20Back.png)|
