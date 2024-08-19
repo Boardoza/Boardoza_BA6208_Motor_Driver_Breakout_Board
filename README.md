@@ -32,14 +32,14 @@ The BA6208 is an integrated circuit designed for reversible motor drive with out
 ## Board Pinout
 
 | J1 Pin Number | Pin Name | Description |
-| :---: | --- | --- |
+| :---: | :---: | --- |
 | 1 | +5V | Power Supply |
 | 2 | A IN | Motor Input A |
 | 3 | B IN | Motor Input B |
 | 4 | GND | Ground |
 
 | M1 Pin Number | Pin Name | Description |
-| :---: | --- | --- |
+| :---: | :---: | --- |
 | 1 | B OUT | Motor Output B |
 | 2 | A OUT | Motor Output A |
 
