@@ -1,5 +1,10 @@
-# Boardoza BA6208G Motor Driver Breakout Board
+# Boardoza BA6208 Motor Driver Breakout Board
 The BA6208 is an integrated circuit designed for reversible motor drive with output current capability and an inbuilt oscillating function. This small IC finds use in a range of applications primarily involving motor control in devices like consumer electronics or automotive accessories.
+
+<!-- 
+The BA6208 Reversible Motor Driver Breakout Board is designed to control DC motors with forward and reverse direction capabilities. Featuring the BA6208 motor driver IC, this board is ideal for robotics, automation, and any application requiring precise motor control with simple input signals. 
+-->
+
 
 ### [Click here to purchase!](https://www.ozdisan.com)
 
@@ -18,11 +23,13 @@ The BA6208 is an integrated circuit designed for reversible motor drive with out
 ---
 ## Technical Specifications
 
-**Input Voltage:**	4.5V to 15.0V
+**Input Voltage:**	4.5V to 15V
 
 **Functions:** H-Bridge Small Type Motor Driver
 
-**Output Current:** 500mA
+**Output Current:** up to 500mA
+
+<!-- **Control Interface:** Digital (Forward, Reverse, Stop) -->
 
 **Operating Temperature:** -20°C ~ +60°C
 
@@ -46,17 +53,17 @@ The BA6208 is an integrated circuit designed for reversible motor drive with out
 ---
 ## Board Dimensions
 
-<img src="./assets/BA6208 Dimension.png" alt="BA6208G Dimension" width="430"/>
+<img src="./assets/BA6208 Dimension.png" alt="BA6208 Dimension" width="430"/>
 
 ---
 ## Step Files
 
-[Boardoza BA6208G.step](https://boardoza.com/stepfiles/BA6208G.step)
+[Boardoza BA6208.step](https://boardoza.com/stepfiles/BA6208G.step)
 
 ---
 ## Sensor Datasheet
 
-[BA6208G Datasheet.pdf](https://boardoza.com/wp-content/uploads/2024/05/516555_928113.pdf)
+[BA6208 Datasheet.pdf](https://boardoza.com/wp-content/uploads/2024/05/516555_928113.pdf)
 
 ---
 ## Version History
