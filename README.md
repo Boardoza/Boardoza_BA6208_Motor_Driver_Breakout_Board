@@ -20,7 +20,6 @@ Thanks to its built-in oscillator and simplified control interface, this module 
 - **Low Saturation Voltage:** Ensures higher efficiency and lower power loss.
 - **Built-in Thermal Protection:** Prevents damage from overheating via automatic thermal shutdown.
 
-
 ---
 
 ## Technical Specifications
